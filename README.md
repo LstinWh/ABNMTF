@@ -7,3 +7,5 @@ Code in Matlab for the paper "Semi-Supervised Non-Negative Matrix Tri-Factorizat
 There is a demo in demo_coil20.m working for COIL20 recognition.
 
 If this code is helpful to you, please refer to the above paper.
+
+pdf [代表作1 EAAI.pdf](https://github.com/LstinWh/ABNMTF/files/10839362/1.EAAI.pdf)
