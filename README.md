@@ -8,4 +8,4 @@ There is a demo in demo_coil20.m working for COIL20 recognition.
 
 If this code is helpful to you, please refer to the above paper.
 
-pdf
+pdf [ABNMTF.pdf](https://github.com/LstinWh/ABNMTF/files/10839369/ABNMTF.pdf)
